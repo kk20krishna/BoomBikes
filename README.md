@@ -51,8 +51,9 @@ The approach follows a structured path to address the problem of demand predicti
 
 
 - Feature Selection
-To avoid overfitting and reduce model complexity, only significant features are selected for the model. Methods such as correlation analysis and variance inflation factors (VIFs) are used to remove multicollinearity and ensure that independent variables provide distinct information.
-Stepwise regression or backward elimination may be used to iteratively refine the list of significant predictors.
+  - To avoid overfitting and reduce model complexity, only significant features are selected for the model.
+  - Methods such as correlation analysis and variance inflation factors (VIFs) are used to remove multicollinearity and ensure that independent variables provide distinct information.
+  - Stepwise regression or backward elimination may be used to iteratively refine the list of significant predictors.
 
 - Model Building:
   - A linear regression model is built using the selected features. The model attempts to establish a relationship between the dependent variable (bike demand) and the independent variables.
