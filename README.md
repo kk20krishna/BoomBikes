@@ -1,5 +1,4 @@
-# Project Name
-BoomBikes Assignment
+# BoomBikes Assignment
 
 
 ## Table of Contents
