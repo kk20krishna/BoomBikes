@@ -1,5 +1,7 @@
 # BoomBikes Assignment
 
+BoomBikes, a US-based bike-sharing provider, has experienced significant revenue declines due to the COVID-19 pandemic. To recover and thrive post-lockdown, the company aims to understand the factors influencing the demand for shared bikes. This knowledge will help them prepare for increased demand and outperf
+
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -13,10 +15,6 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-**Problem Statement**
-
-BoomBikes, a US-based bike-sharing provider, has experienced significant revenue declines due to the COVID-19 pandemic. To recover and thrive post-lockdown, the company aims to understand the factors influencing the demand for shared bikes. This knowledge will help them prepare for increased demand and outperform competitors.
-
 
 **Business Goal**
 
