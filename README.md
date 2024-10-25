@@ -6,10 +6,9 @@ BoomBikes Assignment
 * [General Info](#general-information)
 * [Approach](#approach)
 * [Solution Found](#solution-found)
-* [Key Insights](#key_insights)
-* [Solution Found](#solution-found)
+* [Key Insights](#key-insights)
+* [Conclusion](#conclusion)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
